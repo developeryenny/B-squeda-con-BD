@@ -1,0 +1,6 @@
+<?php
+echo "si desde la consola ponemos ipconfig, está la ponemos en el navegador entramos al menu de xamp ";
+echo "ip/phpmyadmin/";
+echo " CREATE TABLE DASTOSPERSONALES(NIF VARCHAR(10), NOMBRE VARCHAR(15), APELLIDO VARCHAR(20), EDAD INT(2));";
+echo "ALTER TABLE DATOSPERSONALES DROP EDAD;";
+//echo "INSERT into datospersonales(NIF,NOMBRE,APELLIDO,EDAD)VALUES("12345W", "María", "Gomez", 37);"
